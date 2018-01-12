@@ -11,4 +11,4 @@ In this project, I learned the following:
   - How to organize HTML elements for effective web design
   - How to style elements using external Cascading Style Sheets
   - Use headers, links, tables, forms,  images, and other common HTML5 elements
-  - Validation HTML and CSS documents
+  - Validation HTML and CSS documents 
